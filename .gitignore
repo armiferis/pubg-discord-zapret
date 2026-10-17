@@ -1,0 +1,8 @@
+.DS_Store
+dist/
+__pycache__/
+*.log
+*.etl
+*.pcap
+*.pcapng
+.ssh/
